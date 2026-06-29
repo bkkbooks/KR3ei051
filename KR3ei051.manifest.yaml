@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3ei051/v1
+canonical_location: https://kanripo.org/bkk/KR3ei051/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 產後十八論
+  identifiers:
+    krp: KR3ei051
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei051.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei051_000.yaml, hash: 'sha256:e097ec8826ae7c49b32cbb95690a740e7689bae1a56e3efa2419bd94291f0d90'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei051_000.markers.yaml, hash: 'sha256:1c139cc1f212e3b9ace0dc9731d99be320b61e3e5c0b58867aff3d4d527cabeb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei051_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 285
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei051_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 1240
+  label: 產後十八論神奇驗方
+  type: section
+  level: 1
+hash: sha256:7c36718247193e72ce5c80a68e5eadff17ef5d48e15fb3ef90821298e94ea934
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

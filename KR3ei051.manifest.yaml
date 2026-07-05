@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei051_000.yaml, hash: 'sha256:e097ec8826ae7c49b32cbb95690a740e7689bae1a56e3efa2419bd94291f0d90'}
+  - {seq: 0, filename: KR3ei051_000.yaml, hash: 'sha256:512b67b5c155a9461a768d9d894e07b914f6e2d99ad797e967e6802c04b38d9c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei051_000.markers.yaml, hash: 'sha256:1c139cc1f212e3b9ace0dc9731d99be320b61e3e5c0b58867aff3d4d527cabeb'}
+  - {seq: 0, role: markers, filename: assets/KR3ei051_000.markers.yaml, hash: 'sha256:2733ace346623757c11d67fea5d6ada2a87eebd4522f5230d291e561c494cb6b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,7 +41,4 @@ table_of_contents:
   label: 產後十八論神奇驗方
   type: section
   level: 1
-hash: sha256:7c36718247193e72ce5c80a68e5eadff17ef5d48e15fb3ef90821298e94ea934
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:881fc7165c9e1d0922b4efe0ec1c26bf83648cb0d445f8f431813f12660cebbe
